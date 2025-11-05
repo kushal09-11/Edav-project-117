@@ -1,0 +1,1 @@
+This project analyzes player engagement patterns in online gaming, focusing on playtime, matches, and in-game purchases. Using data-driven insights, it explores how gaming behavior correlates with player rank and performance. The goal is to understand trends that influence player activity and retention.
